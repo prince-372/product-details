@@ -265,3 +265,8 @@ select {
         left: 0;
     }
 }
+@media (min-width:992px) {
+    .nav-card{
+      display: block;
+    }
+}
